@@ -473,6 +473,34 @@ html.no-touch nav ul li:hover {
     background: url('../img/house.png') no-repeat;
 }
 
+#bangkok {
+    position: absolute;
+    left: 50%;
+    margin-left: -424px;
+    width: 377px;
+    height: 264px;
+    top: 20%;
+    background: url('../img/bangkok.png') no-repeat;
+}
+
+#seoul {
+    position: absolute;
+    top: 20%;
+    right: 0px;
+    width: 377px;
+    height: 338px;
+    background: url('../img/seoul.jpg') no-repeat;
+}
+
+#singapore {
+    position: absolute;
+    top: 20%;
+    right: 0px;
+    width: 377px;
+    height: 266px;
+    background: url('../img/singapore.jpg') no-repeat;
+}
+
 #proposal-island {
     position: absolute;
     left: 0px;
