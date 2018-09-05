@@ -492,6 +492,24 @@ html.no-touch nav ul li:hover {
     background: url('../img/seoul.jpg') no-repeat;
 }
 
+#hongkong {
+    position: absolute;
+    top: -20px;
+    right: -120px;
+    width: 377px;
+    height: 367px;
+    background: url('../img/hongkong.jpg') no-repeat;
+}
+
+#vancouver {
+    position: absolute;
+    top: -20px;
+    left: -120px;
+    width: 474px;
+    height: 334px;
+    background: url('../img/vancouver.jpeg') no-repeat;
+}
+
 #singapore {
     position: absolute;
     top: 20%;
